@@ -91,6 +91,7 @@ The system implements a collaborative agent workflow:
 2. **Decision Phase**
    - Decision maker analyzes research to select top 2 stocks
    - Evaluates growth potential, financial health, competitive advantage
+   - Loops back to the Research Phase if more data is needed
 
 3. **Visualization Phase**
    - Chart generator creates visual representations of stock data
@@ -99,6 +100,7 @@ The system implements a collaborative agent workflow:
 4. **Reporting Phase**
    - Report agent creates a comprehensive investment thesis for selected stocks
    - Combines research, decisions, and charts into a final report
+   - Requests visualizations if needed
 
 ## Sample Charts Generated
 
