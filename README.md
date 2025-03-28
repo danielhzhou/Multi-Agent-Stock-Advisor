@@ -11,6 +11,11 @@ This project implements a distributed AI workflow for stock analysis and investm
 3. **Chart Generator** - Creates insightful visualizations of stock performance and metrics
 4. **Report Agent** - Compiles findings into a comprehensive investment report
 
+## Graph
+
+<img width="371" alt="Screenshot 2025-03-28 at 12 45 25 AM" src="https://github.com/user-attachments/assets/681b907b-a107-4291-aeb2-29167b7ab024" />
+
+
 ## Features
 
 - Research-driven stock selection using real-time market data
@@ -100,10 +105,6 @@ The system implements a collaborative agent workflow:
 - If you encounter API rate limit issues, try increasing the delay between agent calls
 - For memory issues, reduce the max token limit for LLM agents
 - Ensure your API keys are correctly set up and have sufficient quota
-
-## License
-
-MIT
 
 ## Acknowledgments
 
