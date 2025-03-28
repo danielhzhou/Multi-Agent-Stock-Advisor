@@ -104,8 +104,7 @@ The system implements a collaborative agent workflow:
 
 ![financial_performance_chart](https://github.com/user-attachments/assets/77d1c995-2d26-48c5-93a5-c10935d48357)
 ![profit_margin_comparison_chart](https://github.com/user-attachments/assets/370ad182-af0b-471a-a6d5-3fdb1d6e4abd)
-chments/assets/6c7442bd-e2a4-4d8f-b2a1-8db727c990db)
-
+![price_comparison_chart](https://github.com/user-attachments/assets/2ad6ab56-8352-443f-a7ad-c15c87d70bed)
 
 ## Troubleshooting
 
